@@ -1,5 +1,5 @@
 # WeatherInfo
 
-![toronto](GIF/toronto.png)
-![toronto2](GIF/toronto2.png)
-![toronto3](GIF/toronto3.png)
+![toronto](GIF/toronto.gif)
+![toronto2](GIF/toronto2.gif)
+![toronto3](GIF/toronto3.gif)
